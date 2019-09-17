@@ -1,0 +1,8 @@
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Release\TestProject.csprojAssemblyReference.cache
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Release\TestProject.AutoVideo1.resources
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Release\TestProject.AutoVideo2.resources
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Release\TestProject.MainUI.resources
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Release\TestProject.VideoForm.resources
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Release\TestProject.Properties.Resources.resources
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Release\TestProject.csproj.GenerateResource.cache
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Release\TestProject.csproj.CoreCompileInputs.cache

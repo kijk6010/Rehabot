@@ -1,0 +1,49 @@
+C:\Users\Kang\Downloads\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Kang\Downloads\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\Kang\Downloads\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Kang\Downloads\TestProject\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Kang\Downloads\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\Kang\Downloads\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\Kang\Downloads\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Kang\Downloads\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\Kang\Downloads\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Kang\Downloads\TestProject\TestProject\obj\Debug\TestProject.VideoForm.resources
+C:\Users\Kang\Downloads\TestProject\TestProject\obj\Debug\TestProject.MainUI.resources
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\bin\Debug\TestProject.exe
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\obj\Debug\TestProject.MainUI.resources
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\obj\Debug\TestProject.VideoForm.resources
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\obj\Debug\TestProject.exe
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\bin\Debug\AForge.Controls.dll
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\bin\Debug\AForge.dll
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\bin\Debug\AForge.Imaging.dll
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\bin\Debug\AForge.Video.dll
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\bin\Debug\AForge.Math.dll
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\bin\Debug\AForge.xml
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\bin\Debug\AForge.Controls.xml
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\bin\Debug\AForge.Imaging.xml
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\bin\Debug\AForge.Video.xml
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\bin\Debug\AForge.Math.xml
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\obj\Debug\TestProject.AutoVideo1.resources
+C:\Users\Kang\source\repos\MotionDetectionUI\TestProject\obj\Debug\TestProject.AutoVideo2.resources
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\bin\Debug\TestProject.exe
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Debug\TestProject.AutoVideo1.resources
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Debug\TestProject.AutoVideo2.resources
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Debug\TestProject.MainUI.resources
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Debug\TestProject.VideoForm.resources
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Debug\TestProject.exe
+C:\Users\Hot Dog\Desktop\MotionDetectionUI\TestProject\obj\Debug\TestProject.pdb

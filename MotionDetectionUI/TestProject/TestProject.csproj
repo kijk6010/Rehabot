@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B70EA03B-02A1-4C48-B858-D66DE1FEBF58}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TestProject</RootNamespace>
+    <AssemblyName>TestProject</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb" />
+    <Reference Include="AForge.Controls, Version=2.2.5.0, Culture=neutral, PublicKeyToken=a8ac264d1dc6b9d9, processorArchitecture=MSIL" />
+    <Reference Include="AForge.Imaging, Version=2.2.5.0, Culture=neutral, PublicKeyToken=ba8ddea9676ca48b" />
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401" />
+    <Reference Include="AForge.Video.FFMPEG, Version=2.2.5.0, Culture=neutral, PublicKeyToken=03563089b1be05dd, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AForge.Video.FFMPEG.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.QuartzTypeLib, Version=1.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>DLL\Interop.QuartzTypeLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutoVideo1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoVideo1.Designer.cs">
+      <DependentUpon>AutoVideo1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AutoVideo2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoVideo2.Designer.cs">
+      <DependentUpon>AutoVideo2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VideoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VideoForm.Designer.cs">
+      <DependentUpon>VideoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainUI.Designer.cs">
+      <DependentUpon>MainUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MediaStatus.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AutoVideo1.resx">
+      <DependentUpon>AutoVideo1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutoVideo2.resx">
+      <DependentUpon>AutoVideo2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainUI.resx">
+      <DependentUpon>MainUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VideoForm.resx">
+      <DependentUpon>VideoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IMAGE\pause.bmp" />
+    <None Include="IMAGE\play.bmp" />
+    <None Include="IMAGE\stop.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DLL\Interop.QuartzTypeLib.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rehabotImage.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
